@@ -19,3 +19,5 @@ from topsis import Topsis
 
 Topsis.calculate('input_file.csv', '1,1,1,2', '+,+,-,+', 'output_file.csv')
 ```
+
+[![PyPI version](https://badge.fury.io/py/Topsis-Samkit-102203285.svg)](https://pypi.org/project/Topsis-Samkit-102203285/)
